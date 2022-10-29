@@ -1,0 +1,7 @@
+D:\2 курс\ООП\ООП\lab6\MyList\MyClass\bin\Debug\MyClass.exe.config
+D:\2 курс\ООП\ООП\lab6\MyList\MyClass\bin\Debug\MyClass.exe
+D:\2 курс\ООП\ООП\lab6\MyList\MyClass\bin\Debug\MyClass.pdb
+D:\2 курс\ООП\ООП\lab6\MyList\MyClass\obj\Debug\MyClass.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП\ООП\lab6\MyList\MyClass\obj\Debug\MyClass.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\ООП\lab6\MyList\MyClass\obj\Debug\MyClass.exe
+D:\2 курс\ООП\ООП\lab6\MyList\MyClass\obj\Debug\MyClass.pdb

@@ -1,0 +1,8 @@
+D:\2 курс\ООП\ООП\lab6\MyList\MyDictionary\bin\Debug\MyDictionary.exe.config
+D:\2 курс\ООП\ООП\lab6\MyList\MyDictionary\bin\Debug\MyDictionary.exe
+D:\2 курс\ООП\ООП\lab6\MyList\MyDictionary\bin\Debug\MyDictionary.pdb
+D:\2 курс\ООП\ООП\lab6\MyList\MyDictionary\obj\Debug\MyDictionary.csproj.AssemblyReference.cache
+D:\2 курс\ООП\ООП\lab6\MyList\MyDictionary\obj\Debug\MyDictionary.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП\ООП\lab6\MyList\MyDictionary\obj\Debug\MyDictionary.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\ООП\lab6\MyList\MyDictionary\obj\Debug\MyDictionary.exe
+D:\2 курс\ООП\ООП\lab6\MyList\MyDictionary\obj\Debug\MyDictionary.pdb
