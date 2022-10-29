@@ -1,0 +1,7 @@
+D:\2 курс\ООП\ООП\lab6\MyList\GetArray\bin\Debug\GetArray.exe.config
+D:\2 курс\ООП\ООП\lab6\MyList\GetArray\bin\Debug\GetArray.exe
+D:\2 курс\ООП\ООП\lab6\MyList\GetArray\bin\Debug\GetArray.pdb
+D:\2 курс\ООП\ООП\lab6\MyList\GetArray\obj\Debug\GetArray.csproj.SuggestedBindingRedirects.cache
+D:\2 курс\ООП\ООП\lab6\MyList\GetArray\obj\Debug\GetArray.csproj.CoreCompileInputs.cache
+D:\2 курс\ООП\ООП\lab6\MyList\GetArray\obj\Debug\GetArray.exe
+D:\2 курс\ООП\ООП\lab6\MyList\GetArray\obj\Debug\GetArray.pdb
